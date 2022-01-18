@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-This is all the work we did for Mediaan is semester 2
+This repo contains all the work we delivered around the project we created for the company Mediaan
