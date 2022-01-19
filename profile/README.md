@@ -20,7 +20,7 @@
 
 <hr/>
 
-- <a href="https://github.com/DB01-4/QRService">MenuService</a>
+<a href="https://github.com/DB01-4/QRService">MenuService</a>
 
 - GET: <code>/api/items</code>
 - GET: <code>/api/item/{id}</code>
@@ -29,7 +29,7 @@
 
 <hr/>
 
-- <a href="https://github.com/DB01-4/QRService">IMSService</a>
+<a href="https://github.com/DB01-4/QRService">IMSService</a>
 
 - GET: <code>/api/items</code>
 - GET: <code>/api/item/{id}</code>
@@ -40,8 +40,8 @@
 <hr/>
 
 
-- <a href="https://github.com/DB01-4/QRService">Websocket</a>
+<a href="https://github.com/DB01-4/QRService">Websocket</a>
 
 ## Other services
 
-- <a href="https://auth0.com/">Auth0</a>
+<a href="https://auth0.com/">Auth0</a>
